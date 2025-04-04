@@ -1,2 +1,0 @@
-from .train_model import train_logistic_regression
-from .predict_model import evaluate_model
